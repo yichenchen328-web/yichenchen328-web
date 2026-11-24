@@ -29,6 +29,6 @@ I'm a member of **Prof. Yoel René Cortés-Peña's group** at NUS, working on pr
 
 ## Contact | 联系方式
 
-- 📧 [yichen.chen@u.nus.edu](mailto:yichen.chen@u.nus.edu
+- 📧 [yichen.chen@u.nus.edu](mailto:yichen.chen@u.nus.edu)
 - 📞 +65 91337315
 - 🏫 National University of Singapore, Singapore
